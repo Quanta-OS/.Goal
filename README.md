@@ -1,2 +1,2 @@
 # .Goal
-A.I. Powered &amp; "Creativity focused" Decentralized Network Operating System! Built with Quantum Computing in mind.
+A.I. Powered & "Creativity focused" Decentralized Network "meta" Operating System! Built with Quantum Computing in mind.
